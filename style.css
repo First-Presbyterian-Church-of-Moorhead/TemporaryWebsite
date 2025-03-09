@@ -115,6 +115,7 @@ iframe {
     max-width: 100%;
     height: auto;
     display: block;
+    margin-top: 20 px;
     margin: 0 auto;
     top: 50%;
     transform: translateY(-50%);
@@ -133,7 +134,7 @@ ul.main-menu li a {
   margin-right:20px;
   font-size:2.0rem;
   border-bottom: solid transparent 3px;
-  color:#cfd2da;
+  color:#4b4b4b;
 }
 ul.main-menu li a:hover {
   color:#000000;
